@@ -1,0 +1,25 @@
+{
+  "name": "lab-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ./**/*.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvreyBrown-401-advanced-javascript/lab-18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvreyBrown-401-advanced-javascript/lab-18/issues"
+  },
+  "homepage": "https://github.com/AvreyBrown-401-advanced-javascript/lab-18#readme",
+  "dependencies": {
+    "eslint": "^6.6.0",
+    "jest": "^24.9.0"
+  }
+}
